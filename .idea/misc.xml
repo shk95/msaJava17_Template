@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$/ApiGateway" />
-    <file type="web" url="file://$PROJECT_DIR$/AppManager" />
-    <file type="web" url="file://$PROJECT_DIR$/EurekaServer" />
-    <file type="web" url="file://$PROJECT_DIR$/FrontUI" />
-    <file type="web" url="file://$PROJECT_DIR$/NoticeService" />
+    <file type="web" url="file://$PROJECT_DIR$" />
     <file type="web" url="file://$PROJECT_DIR$/SpringConfigServer" />
-    <file type="web" url="file://$PROJECT_DIR$/UserService" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" project-jdk-name="17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
   </component>
 </project>

@@ -1,13 +1,10 @@
-# Eureka Server Port
 server:
   port: 8761
 
-# Eureka Server Name
 spring:
   application:
-    name: discoverservice
+    name: discovery-service
 
-# Eureka Server
 eureka:
   server:
     enable-self-preservation: true
@@ -18,10 +15,8 @@ eureka:
     register-with-eureka: false
     fetch-registry: false
 
-# End Point
 management:
   endpoints:
     web:
       exposure:
-        include: "*"
-
+        include: '*'

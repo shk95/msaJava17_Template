@@ -3,9 +3,16 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ApiGateway.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ApiGateway.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AppManager.main.iml" filepath="$PROJECT_DIR$/.idea/modules/AppManager.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EurekaServer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/EurekaServer.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/NoticeService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/NoticeService.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/UserService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/UserService.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/msaJava17.iml" filepath="$PROJECT_DIR$/msaJava17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ApiGateway/msa-example.ApiGateway.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ApiGateway/msa-example.ApiGateway.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AppManager/msa-example.AppManager.main.iml" filepath="$PROJECT_DIR$/.idea/modules/AppManager/msa-example.AppManager.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ConfigServer/msa-example.ConfigServer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ConfigServer/msa-example.ConfigServer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EurekaServer/msa-example.EurekaServer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/EurekaServer/msa-example.EurekaServer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NoticeService/msa-example.NoticeService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/NoticeService/msa-example.NoticeService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UserService/msa-example.UserService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/UserService/msa-example.UserService.main.iml" />
     </modules>
   </component>
 </project>
